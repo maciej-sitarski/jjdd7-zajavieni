@@ -41,7 +41,7 @@ By logging in, the user is checked the authorization level and access to individ
 ![Vacation manager](./docs/admin_upload.png)
  > In the administrator's management panel there is a functionality that allows you to read events data from the JSON file. All data are stored in MySQL database after loading. This functionality has been implemented as an alternative to retrieving events data directly from the API.
 
-![Vacation manager](./docs/admin_statistics.png)
+![Vacation manager](./docs/admins_statistics.png)
 > Another option available to administrator is access to statistics module where events data are presented. There are three charts:
 * Most visited events
 * TOP 10 organizers
